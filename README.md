@@ -23,13 +23,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
-          
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height='30px' width='30px' align='left' alt='JavaScript' style='padding-right: 10px;'/>
           
