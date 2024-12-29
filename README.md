@@ -1,8 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+# ✌️ Tarun Veeraraghavan
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`I turn good ideas into great software`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I'm a MERN specialized full-stack developer and UI/UX designer building my version of the digital world one step at a time. I love to work in TypeScript, Next.js and Node.js, but I'm happy to use whatever tool is most suited for the job at hand. My two favorite daily activities are attending local tech meetup and posting programming related content on my YouTube channel. I have recently been on the Deno/Bun hype, doing some stuff on the side when I have time. I'm also interested in the intersection between Server Side Rendering and Single Page Application world, and how we can build client-first webapps that still have ceratin pages that rerender immediately for SEO purposes
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
